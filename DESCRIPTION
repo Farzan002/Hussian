@@ -1,0 +1,10 @@
+Package: Farzan002
+Type: Package
+Title: Basic Mathematic Operation
+Version: 0.0.1
+Authors@R: person("Farzan", "Hussain", email = "h20220834@pilani.bits-pilani.ac.in", role = c("aut", "cre"))
+Description: This package provides functions to perform operation such as addition, substraction, multiplication and division on R vectors
+Depends: R (>= 3.1.0)
+License: GNU General Public License v3.0
+RoxygenNote: 7.2.1
+Encoding: UTF-8
